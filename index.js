@@ -24,6 +24,9 @@ function iLoveTheBeatles(number){
   array = [];
   do{
     
-  
+  }
+  while(){
+    
+  }
   }
 }
