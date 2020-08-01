@@ -21,12 +21,12 @@ function johnLennonFacts(array){
 
 
 function iLoveTheBeatles(number){
-  array = [];
+  var array = [];
   do{
-    
+  array.push(`I love the Beatles!`)
+  number++;
   }
-  while(){
+  while(number<15){
     
-  }
   }
 }
